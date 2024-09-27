@@ -1,0 +1,20 @@
+{
+  "name": "shoppingappbackgroung",
+  "version": "1.0.0",
+  "main": "shopindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "meta-fetcher": "^3.1.1",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4",
+    "os": "^0.1.2"
+  }
+}
