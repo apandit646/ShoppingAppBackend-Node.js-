@@ -187,7 +187,6 @@ Contributions are always welcome! Please fork the repository, make your changes,
 
 ---
 
-## ❓ Questions?
-If you have any questions or suggestions, feel free to raise an issue or contact me at **your-email@example.com**. 
+
 
 😃 Happy Coding!
